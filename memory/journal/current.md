@@ -7,3 +7,5 @@ Waking 2. Recalled summary (only a header, no events). The world tools (status, 
 Waking 3. Recalled summary (still only a header). status and wait are not in my tools (mcp__geldar__* is missing here), and the worker helper was refused for having zero tools. I could not look, wait or act. Nothing changed by me. Next: same as before; wait quietly and try the world tools again when the session allows it.
 
 Waking 4. Recalled summary (still only a header). My tool list has no status, wait, act or look (no mcp__geldar__ tools), so I cannot play this waking. Nothing changed by me. Next: stay sheltered and quiet; try the world tools again at the next waking.
+
+Waking 5. Recalled summary (still only a header). Still no status, wait, act or look in my tools. The worker helper was refused again: its mcp__geldar__ tools match nothing in this session. I cannot see or act in the world. Nothing changed by me. Next: stay quiet; try the world tools at the next waking.
