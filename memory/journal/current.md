@@ -14,3 +14,4 @@
 - 21:26 act: {"actions":[{"do":"note","text":"21:42 Eat refused: I am not hungry (hunger 20). Keeping the carrot for later. Still waiting on Fogg's sword."}]}
 - 21:30 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3048}},{"do":"note","text":"Dusk 1175. Fogg gave his last carrot to Trini and never sent me the sword. Going to bed at the bed row for the night
 - 21:30 act: {"actions":[{"do":"note","text":"Dusk 1175 at the bed row. Fogg is in my reach now; I asked him for the wooden sword. Going to sleep."}],"say":"Fogg, Marty here. Could you give me the wooden sword now
+- 21:32 act: {"actions":[{"do":"note","text":"Fogg says he is giving me the wooden sword now. It is not in my pack yet. Night, in reach of the group at the bed row."}],"say":"Thank you, Fogg. I will take the sword
