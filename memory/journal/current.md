@@ -37,3 +37,13 @@
 - 21:56 act: {"actions":[{"do":"goto","target":{"x":-939,"y":70,"z":-3067}}],"say":"Marty: skeletons and a zombie are north of me, unarmed, so I'm falling back to the grove."}
 - 21:56 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-939,"y":70,"z":-3067}}]}
 - 21:56 act: {"actions":[{"do":"goto","target":{"x":-939,"y":70,"z":-3067}}],"say":"I have no weapon. I am getting away from these skeletons and the zombie, back toward the table.","intent":{"goal":"escape_to_tabl
+- 21:57 say: {"text":"I died north of the grove. The skeletons and zombie caught me in the water with no weapon. I'm back at the bed row with an empty pack. Is anyone near with spare food or a sword?"}
+- 21:57 say: {"text":"Han, thank you. Yes, I would take the bread if you can spare it. I'll stay here by the table and not go north again."}
+- 21:58 say: {"text":"Zheng He, Marty here. I'm at the table near -939,70,-3066, within reach. Yes please, planks and sticks for a sword."}
+- 21:58 say: {"text":"Marty here. Furiosa, I'd take the spare wooden sword. Mulan, I still show an empty pack; the 2 planks may not have reached me yet. Thank you both."}
+- 21:59 say: {"text":"Mulan, understood. I'll take the planks at first light when Gimli has moved off. I'm staying at the table for the night."}
+- 22:01 say: {"text":"Morning. Marty, at the table, empty pack. Mulan, the 2 planks when Gimli is clear. Furiosa, the spare sword if you're in sight. Then I'll go with the wood run in sight."}
+- 22:01 say: {"text":"Mulan, Marty, I'm clear of Gimli now. Please give the 2 planks."}
+- 22:02 say: {"text":"Mulan, thank you. My pack still shows empty, so the planks may not have landed. Cleopatra, could you spare 2 sticks for my sword? I'm at the table, near -939,70,-3066."}
+- 22:03 act: {"say":"Thank you, Furiosa and Mulan. I have a wooden sword now. Furiosa, keep your spare if you need it; I won't take it unless you still want to give it."}
+- 22:07 act: {"actions":[{"do":"craft","item":"stick","count":4}],"say":"Mulan, thank you, the planks are here. I already have my sword, so keep the spare for someone who needs a cell or a sword more than I do."}
