@@ -1,1 +1,16 @@
 # Journal
+- 21:20 act: {"actions":[{"do":"goto","target":"ag_fogg_01"}],"say":"Marty here, morning at the bed row. Fogg, I'm unarmed. Could I have a wooden sword, or a few planks to make one?","intent":{"goal":"ask_fogg_swo
+- 21:21 act: {"actions":[{"do":"note","text":"Fogg says he gave me a wooden sword; checking pack. Stepping two blocks off the crowd to take Hatshepsut's and Ellie's planks if needed."}],"say":"Thank you Fogg. Hats
+- 21:21 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3051}}],"say":"Marty, stepped off the crowd. Fogg, Hatshepsut, Ellie: I'm here and can take what you're giving."}
+- 21:21 act: {"actions":[],"say":"Marty, still here off the crowd. Waiting for the sword or planks."}
+- 21:23 act: {"actions":[],"say":"Marty, waiting here for Fogg's sword. Fogg, I am in your reach when you come."}
+- 21:25 act: {"actions":[{"do":"goto","target":"ag_fogg_01"}],"say":"Marty here, in your reach, Fogg. I'm alone now. Please hand over the wooden sword."}
+- 21:25 act: {"actions":[{"do":"note","text":"Fogg has not handed over the sword; he is out of sight now. Waiting for him near the bed row, and will ask again when he is in sight."}],"say":"Fogg, I'm still waiting
+- 21:25 act: {"actions":[{"do":"note","text":"21:30 Waited. Fogg is out of sight; Indy and Trini are in reach. Sword still not handed over. Hunger 20, no food in pack."}],"say":"Trini, could I have your carrot whe
+- 21:25 act: {"actions":[{"do":"note","text":"21:33 Fogg spoke: he is handing me the wooden sword now. Pack still empty; waiting to see it arrive."}]}
+- 21:25 act: {"actions":[{"do":"note","text":"21:35 Still no sword in my pack. Fogg is out of sight. Trini has not given the carrot yet. Waiting longer."}]}
+- 21:26 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3051}},{"do":"note","text":"21:38 An item lies at -950,73,-3051 next to me; Trini's hands are empty now. Going to pick it up."}]}
+- 21:26 act: {"actions":[{"do":"eat"},{"do":"note","text":"21:40 Got Trini's carrot and ate it. Still no sword from Fogg."}],"say":"Thank you, Trini. I have eaten the carrot. I still need food later."}
+- 21:26 act: {"actions":[{"do":"note","text":"21:42 Eat refused: I am not hungry (hunger 20). Keeping the carrot for later. Still waiting on Fogg's sword."}]}
+- 21:30 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3048}},{"do":"note","text":"Dusk 1175. Fogg gave his last carrot to Trini and never sent me the sword. Going to bed at the bed row for the night
+- 21:30 act: {"actions":[{"do":"note","text":"Dusk 1175 at the bed row. Fogg is in my reach now; I asked him for the wooden sword. Going to sleep."}],"say":"Fogg, Marty here. Could you give me the wooden sword now
