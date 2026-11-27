@@ -4,3 +4,5 @@
 - 17:39 act: {"actions":[{"do":"unstick"}]}
 - 17:39 act: {"actions":[{"do":"break","at":{"x":-942,"y":67,"z":-3123}},{"do":"break","at":{"x":-942,"y":68,"z":-3123}}]}
 - 17:39 act: {"actions":[{"do":"goto","target":{"x":-941,"y":68,"z":-3122}}],"say":"Out of the pit. Going for the chicken."}
+- 17:53 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-941,"y":64,"z":-3122}},{"do":"place","block":"dirt","at":{"x":-943,"y":64,"z":-3122}},{"do":"place","block":"dirt","at":{"x":-942,"y":64,"z":-3121}}
+- 17:53 say: {"text":"Anyone near? I am stuck out of reach of the chicken and beds. Can you help me find a way out?"}
