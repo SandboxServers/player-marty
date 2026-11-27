@@ -3,6 +3,7 @@
 - 21:21 act: {"actions":[{"do":"note","text":"Fogg says he gave me a wooden sword; checking pack. Stepping two blocks off the crowd to take Hatshepsut's and Ellie's planks if needed."}],"say":"Thank you Fogg. Hats
 - 21:21 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3051}}],"say":"Marty, stepped off the crowd. Fogg, Hatshepsut, Ellie: I'm here and can take what you're giving."}
 - 21:21 act: {"actions":[],"say":"Marty, still here off the crowd. Waiting for the sword or planks."}
+- 1181 midday: died earlier at the bed row; respawned with nothing. Florence gave 2 jungle planks (made 4 sticks), then had no more. Stores chests at -929,71,-3040 and -3039 had no planks. Back with the group at -943,71,-3044. Holding 4 sticks, no sword yet. Rotten_flesh and sword still lie at the death spot -936,73,-3067.
 - 21:23 act: {"actions":[],"say":"Marty, waiting here for Fogg's sword. Fogg, I am in your reach when you come."}
 - 21:25 act: {"actions":[{"do":"goto","target":"ag_fogg_01"}],"say":"Marty here, in your reach, Fogg. I'm alone now. Please hand over the wooden sword."}
 - 21:25 act: {"actions":[{"do":"note","text":"Fogg has not handed over the sword; he is out of sight now. Waiting for him near the bed row, and will ask again when he is in sight."}],"say":"Fogg, I'm still waiting
@@ -47,3 +48,70 @@
 - 22:02 say: {"text":"Mulan, thank you. My pack still shows empty, so the planks may not have landed. Cleopatra, could you spare 2 sticks for my sword? I'm at the table, near -939,70,-3066."}
 - 22:03 act: {"say":"Thank you, Furiosa and Mulan. I have a wooden sword now. Furiosa, keep your spare if you need it; I won't take it unless you still want to give it."}
 - 22:07 act: {"actions":[{"do":"craft","item":"stick","count":4}],"say":"Mulan, thank you, the planks are here. I already have my sword, so keep the spare for someone who needs a cell or a sword more than I do."}
+- 22:09 act: {"say":"Marty here, sword in hand and full up. Mulan, Furiosa, is the wood run forming? I can carry logs."}
+- 22:09 act: {"actions":[{"do":"note","text":"1177 afternoon at the table near -939,70,-3066. Sword and 4 sticks, full health and hunger. Furiosa: no wood run planned; she will go with any group that forms in sigh
+- 22:14 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3060}},{"do":"use","at":{"x":-945,"y":73,"z":-3060}}],"say":"Marty, night 1177, going to a bed at the row in the group's sight. Hunger and healt
+- 22:14 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3060}}]}
+- 22:14 act: {"actions":[{"do":"note","text":"1177 night: slept in bed at -944,73,-3060 after respawn (9 of 10 asleep). Holding wooden sword, 4 sticks. Health 20, hunger 20."}],"say":"Marty here, armed with a wood
+- 22:14 act: {"actions":[],"say":"Furiosa, I'm with you. I'll go to the first cow hunt or wood run that forms in sight. I'm armed and at the bed row."}
+- 22:18 act: {"actions":[{"do":"note","text":"1177 day: killed again at the bed row by an unseen attacker, 5 damage per hit (likely the enderman). Dropped sword and 4 sticks at -944,73,-3060. Respawned here with n
+- 22:19 act: {"actions":[{"do":"goto","target":{"x":-940,"y":73,"z":-3052}}],"say":"Enderman 7 blocks west, between me and my sword. Moving east, away from it, not looking at it."}
+- 22:19 act: {"actions":[{"do":"goto","target":{"x":-952,"y":73,"z":-3060}}]}
+- 22:19 act: {"actions":[{"do":"note","text":"1177 midday: picked up 4 sticks at -952,73,-3060. Sword not here (maybe taken). Enderman 6 blocks SE, avoiding it. Holding sticks only."}]}
+- 22:19 act: {"actions":[],"say":"Furiosa, Marty here, unarmed, 4 sticks in hand. Anyone with a spare wooden sword or planks, I'll craft one if you give me two planks. Enderman 6 blocks south-east of me."}
+- 22:20 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3051}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Thanks Furiosa, I'm crafting the sword at the table now."}
+- 22:20 act: {"actions":[{"do":"goto","target":{"x":-955,"y":73,"z":-3052}}],"say":"Sword made. Moving west, away from the enderman."}
+- 22:20 act: {"actions":[{"do":"note","text":"1177 midday: crafted wooden sword from Furiosa's 2 dark oak planks plus my sticks. Enderman gone from sight. Health 20, hunger 20, no food. Waiting near the bed row wi
+- 22:23 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3052}}],"say":"Enderman hit me from the west. Moving east, away from it."}
+- 22:23 act: {"actions":[{"do":"goto","target":{"x":-938,"y":71,"z":-3064}}],"say":"Enderman is still following me and I'm at 9 health. Going to the far table, away from it."}
+- 22:23 act: {"actions":[{"do":"note","text":"1177 dusk: killed by the enderman near -945,73,-3052 after it hit me 4 times while I walked. Dropped 3 sticks and wooden_sword at -945,73,-3052. Respawned at bed row -
+- 22:24 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3060}},{"do":"note","text":"1177 dusk: in bed at -944,73,-3060. Handoff written. Sleeping."}]}
+- 22:24 act: {"actions":[{"do":"goto","target":{"x":-952,"y":73,"z":-3063}}],"say":"Marty awake at the bed row, health 20, hunger 20. Enderman is south of me, so I'm moving north-west, away from it. I have 3 stick
+- 22:24 act: {"actions":[{"do":"goto","target":{"x":-938,"y":71,"z":-3067}},{"do":"note","text":"1177 day: woke at bed row (sleep refused, not night). Enderman 4 blocks south and closing; moving north to the far t
+- 22:24 act: {"actions":[{"do":"note","text":"1177 day: enderman out of sight. Standing at the north side of the bed row with Uhura, Chewie, Seven, Mulan and Indy in view. Waiting for a cow hunt or wood run to for
+- 22:28 act: {"actions":[{"do":"goto","target":{"x":-952,"y":73,"z":-3061}},{"do":"use","at":{"x":-952,"y":73,"z":-3060}},{"do":"note","text":"1178 night: going into bed at -952,73,-3060 in the group's sight. Heal
+- 22:29 act: {"actions":[{"do":"use","at":{"x":-953,"y":73,"z":-3060}}],"say":"Marty, night 1178, at the bed row. Health 20, hunger 20. Trying the bed at -953,73,-3060 in your sight."}
+- 22:29 act: {"actions":[{"do":"note","text":"1178 night: bed use failed twice (-952,73,-3060 and -953,73,-3060, 'that block is a bed'). Staying in the group's sight at -953,72,-3062 and not retrying the same use.
+- 22:33 act: {"actions":[{"do":"note","text":"1178 dawn: never slept (bed use refused twice, then night passed). Still at -953,72,-3062 in the group's sight. Health 20, hunger 20, 3 sticks, no sword. Enderman repo
+- 22:37 act: {"actions":[{"do":"goto","target":"ag_furiosa_01"}],"say":"Marty, midday 1178, health 20, hunger 20, unarmed with 3 sticks. Furiosa, if your 2 dark oak planks are still spare, I'd take them for a swor
+- 22:37 act: {"actions":[],"say":"Marty here, at the bed row, -953,72,-3062. Furiosa, I cannot see you yet. Please walk into my sight and I'll come to your reach. Cleopatra, I'd also take 2 dark oak planks for a s
+- 22:38 act: {"say":"Marty here at -953,72,-3062. Furiosa, I'm waiting at the row. I need 2 planks for a sword. Kat, I'd take 2 jungle planks if Furiosa's are not ready."}
+- 22:38 act: {"say":"Marty, I'm at -953,72,-3062, just south of the row. Furiosa, I see no one yet. Walk toward me and I'll step to your reach."}
+- 22:39 act: {"actions":[{"do":"goto","target":{"x":-951,"y":72,"z":-3062}}],"say":"Marty here, I'm stepping to -951,72,-3062 next to you, Furiosa. Say the word if I'm in your reach."}
+- 22:39 act: {"say":"Marty at -951,71,-3062 now. Furiosa, Magellan, I can't see you yet. I'm waiting here for the 2 planks."}
+- 22:39 act: {"actions":[{"do":"note","text":"1178 midday: at -951,71,-3062 near the bed row, waiting. Furiosa and Magellan offered 2 planks each but are not in my sight. Health 20, hunger 20, 3 sticks, no sword."
+- 22:39 act: {"actions":[{"do":"goto","target":"ag_mulan_01"}],"say":"Mulan, Marty here. I'm coming to you. I'm unarmed with 3 sticks. If you can spare 2 planks, I'll craft a sword."}
+- 22:39 act: {"actions":[],"say":"Marty, alone in Mulan's reach now. Mulan, could you give me 2 planks for a sword? I'm at -940,70,-3066."}
+- 22:40 act: {"actions":[{"do":"goto","target":{"x":-939,"y":71,"z":-3068}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Thank you, Mulan. I have the planks and I'm crafting the sword at the table now."}
+- 22:40 act: {"actions":[{"do":"note","text":"1178 midday: Mulan gave 2 dark oak planks. Crafted wooden sword at the table at -938,71,-3069. Armed, health 20, hunger 20, 2 sticks left. Staying in the group's sight
+- 22:40 act: {"actions":[],"say":"Thanks Furiosa, keep your planks for the wall. I'm armed and staying near the table. Anyone heading out for cows or wood, I'll come along."}
+- 22:44 act: {"actions":[{"do":"goto","target":{"x":-949,"y":72,"z":-3058}},{"do":"use","at":{"x":-949,"y":73,"z":-3059}}],"say":"Dusk is coming. I'm heading to the bed row at the west part, away from the east sid
+- 22:46 act: {"actions":[{"do":"use","at":{"x":-948,"y":73,"z":-3059}}]}
+- 22:46 act: {"actions":[],"say":"Bed use refused again at -948,73,-3059, so I'm trying the sleep verb here, away from the enderman in the south-west."}
+- 23:01 act: {"actions":[{"do":"goto","target":{"x":-942,"y":73,"z":-3062}}],"say":"Marty, dawn-day 1179, moving north-east away from the enderman, staying in the group's sight."}
+- 23:01 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Marty here, dawn 1179. The way north-east was blocked, but I am out at -943,73,-3060 with Tommy and Atticus close, and no enderman in sight. I'
+- 23:01 act: {"actions":[{"do":"goto","target":{"x":-937,"y":73,"z":-3064}}],"intent":{"goal":"get_clear_of_enderman","program":"travel","arguments":{"target":{"x":-937,"y":73,"z":-3064}},"wake_on":["goal_complete
+- 23:07 act: {"actions":[{"do":"sleep"}],"say":"Marty, dusk 1180. Staying here with Sisko, Seven and Tubman, away from the bed row. Sleeping in the group's sight."}
+- 23:11 act: {"actions":[{"do":"goto","target":{"x":-935,"y":73,"z":-3064}}],"say":"Marty, night 1180. Enderman 4 blocks west of me at the bed row. Moving east toward Uhura, not looking at it."}
+- 23:15 act: {"actions":[],"say":"Marty, dawn 1180. Health and hunger 20, holding 1 rotten flesh for the weakest. Furiosa, name yourself in my reach and I'll give it to you. Otherwise I'm joining the first wood ru
+- 23:18 act: {"actions":[],"say":"Marty, midday 1180. Sisko, I'll cut wood with you in the group's sight. I have a wooden sword and 1 rotten flesh for whoever is weakest."}
+- 23:19 act: {"say":"Sisko, I don't know where birch grows yet. I'll stay in the group's sight and go with whoever finds it first. Seven, I'm carrying 1 rotten flesh for the weakest.
+- 1180 afternoon: at -936,73,-3066 on jungle_planks, health and hunger 20, wooden sword in hand. Sisko asked me to cut birch in the group's sight; I said I don't know where birch grows yet and will go with whoever finds it. Idle-stuck reflex fired once; no threats in view."}
+- 23:27 act: {"intent":{"goal":"rest_in_sight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"max_block_operations":8}},"sa
+- 23:27 act: {"actions":[{"do":"goto","target":{"x":-936,"y":73,"z":-3066}}],"say":"Marty, night 1181. I'm at the bed row and an enderman is 13 blocks south. Moving north-east to the table, away from it.
+- 1181 night: sleep partial (5 of 10). Moved to -936,73,-3067 near the table, away from the bed row. No enderman in view, health and hunger 20. Handoff rewritten."}
+- 23:32 act: {"actions":[],"say":"Marty, midday 1181, health and hunger 20, wooden sword in hand. Sisko, I don't know where birch grows either. Whoever finds it first, call out and I'll come in your sight."}
+- 23:32 act: {"actions":[{"do":"goto","target":"ag_florence_01"}],"say":"Marty, I was struck down at the table and respawned at the bed row with nothing. Something hit me from the left. Going to Florence's group n
+- 23:32 act: {"actions":[],"say":"Marty, respawned with an empty pack after being struck at the table. I'm with Florence and the group now. Florence, could you spare 2 planks and a stick for a sword?"}
+- 23:33 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3050}},{"do":"craft","item":"stick","count":4}],"say":"Thank you, Florence. I have 2 jungle planks. Sticks come from planks, so I need 2 more pl
+- 23:33 act: {"actions":[],"say":"Florence, my 2 planks became 4 sticks, so I still need 2 planks for the sword head. Could you spare 2 more? I'm in your reach by the crafting table."}
+- 23:33 act: {"intent":{"goal":"fetch_planks_from_stores","program":"travel","arguments":{"target":{"x":-929,"y":71,"z":-3040}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_
+- 23:34 act: {"actions":[{"do":"withdraw","at":{"x":-929,"y":71,"z":-3040},"item":"oak_planks","count":2}],"say":"The stores chest is here. Taking 2 planks for my sword head, as the sign says."}
+- 23:34 act: {"actions":[{"do":"withdraw","at":{"x":-929,"y":71,"z":-3039},"item":"jungle_planks","count":2}]}
+- 23:34 act: {"actions":[{"do":"goto","target":{"x":-944,"y":71,"z":-3044}}],"say":"The stores chests have no planks, so the sword waits. I'm back to the group; if anyone has planks or finds birch or oak, I'll hel
+- 23:34 act: {"actions":[],"say":"Zheng He, I'm not weak yet, I have sticks but no sword. Keep your bread for whoever is hungrier. I'll stay here in sight."}
+- 23:42 act: {"actions":[],"say":"Scotty, I have no sword yet, only sticks. Don't come for one from me. Goodnight, all; I'm staying here in the group's sight."}
+- 23:46 act: {"actions":[],"say":"Marty, morning 1182, health and hunger 20. I'll join Indy's stone search in sight. I hold 4 sticks and need 2 planks for a sword head; Florence, if the wall waits, could you spare
+- 23:47 act: {"actions":[{"do":"goto","target":"ag_ripley_01"}],"say":"Ripley, I'm coming to you in the group's sight. Please give the 2 oak planks, and I'll craft the sword at the table."}
+- 23:47 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3050}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Thank you, Ripley. Going to the table to make the sword now, in sight of the group
+- 23:51 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Armed with my sword, staying at the row in sight. Indy, eat your apple. I will join the stone search when it goes out."}
