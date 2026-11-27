@@ -13,3 +13,9 @@ Night 1166: placed dirt around me; view shows nearly enclosed with one gap. Stil
 - 19:36 act: {"actions":[{"do":"goto","target":{"x":-944,"y":50,"z":-3102}}],"say":"A creeper and a zombie are coming from the north. Forrest, stay close, we move south."}
 - 19:42 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-944,"y":51,"z":-3108}},{"do":"place","block":"dirt","at":{"x":-943,"y":50,"z":-3108}},{"do":"place","block":"dirt","at":{"x":-945,"y":50,"z":-3108}}
 - 19:42 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-944,"y":51,"z":-3107}},{"do":"place","block":"dirt","at":{"x":-945,"y":51,"z":-3108}},{"do":"place","block":"dirt","at":{"x":-943,"y":51,"z":-3108}}
+- 19:57 act: {"actions":[{"do":"goto","target":{"x":-944,"y":50,"z":-3100}}],"say":"Creeper to the north! Forrest, I'm moving south.","intent":{"goal":"flee_creeper","program":"flee","arguments":{},"wake_on":["dir
+- 19:57 act: {"actions":[{"do":"goto","target":{"x":-949,"y":50,"z":-3106}}],"say":"Going west, away from the creeper. Staying close to Forrest."}
+- 19:57 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-947,"y":50,"z":-3108}},{"do":"place","block":"dirt","at":{"x":-945,"y":50,"z":-3108}},{"do":"place","block":"dirt","at":{"x":-946,"y":50,"z":-3109}}
+- 19:57 act: {"actions":[{"do":"goto","target":"ag_forrest_01"}],"say":"Night is here and the creeper is on me. Forrest, I'm sticking next to you."}
+- 20:07 act: {"actions":[],"say":"Morning. Forrest, I'm with you. Lead the way out and I'll follow.","intent":{"goal":"follow_forrest","program":"follow","arguments":{"target":"ag_forrest_01"},"wake_on":["directly
+- 20:07 act: {"actions":[],"say":"Got it, Forrest. I'll hold here until the creeper moves off."}
