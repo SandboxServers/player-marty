@@ -6,3 +6,4 @@
 - 17:39 act: {"actions":[{"do":"goto","target":{"x":-941,"y":68,"z":-3122}}],"say":"Out of the pit. Going for the chicken."}
 - 17:53 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-941,"y":64,"z":-3122}},{"do":"place","block":"dirt","at":{"x":-943,"y":64,"z":-3122}},{"do":"place","block":"dirt","at":{"x":-942,"y":64,"z":-3121}}
 - 17:53 say: {"text":"Anyone near? I am stuck out of reach of the chicken and beds. Can you help me find a way out?"}
+- 18:03 act: {"say":"Atticus, I am well, health 20. I am stuck at z -3122 and cannot move by position. Could someone come near and help?","intent":{"goal":"wait_for_help","program":"rest","arguments":{},"wake_on":
