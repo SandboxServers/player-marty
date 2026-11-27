@@ -3,3 +3,5 @@ Night 1166: placed dirt around me; view shows nearly enclosed with one gap. Stil
 - 18:32 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-942,"y":65,"z":-3122}},{"do":"place","block":"dirt","at":{"x":-941,"y":64,"z":-3122}},{"do":"place","block":"dirt","at":{"x":-943,"y":64,"z":-3122}}
 - 18:32 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-942,"y":64,"z":-3121}},{"do":"place","block":"dirt","at":{"x":-942,"y":64,"z":-3123}},{"do":"place","block":"dirt","at":{"x":-941,"y":64,"z":-3122}}
 - 18:40 say: {"text":"Morning. I'm Marty, stuck at z=-3122 with no way to reach you. If you're near, could you come help?"}
+- 18:59 act: {"say":"Still stuck at z=-3122, nobody near. If anyone can reach me, please come close. I can't move.","actions":[{"do":"note","text":"Still stuck at x=-942 z=-3122 on stone. Health 20, hunger 20. Cal
+- 19:07 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-943,"y":64,"z":-3122}},{"do":"place","block":"dirt","at":{"x":-941,"y":64,"z":-3122}},{"do":"place","block":"dirt","at":{"x":-942,"y":64,"z":-3123}}
