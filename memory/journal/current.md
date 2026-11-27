@@ -19,3 +19,19 @@ Night 1166: placed dirt around me; view shows nearly enclosed with one gap. Stil
 - 19:57 act: {"actions":[{"do":"goto","target":"ag_forrest_01"}],"say":"Night is here and the creeper is on me. Forrest, I'm sticking next to you."}
 - 20:07 act: {"actions":[],"say":"Morning. Forrest, I'm with you. Lead the way out and I'll follow.","intent":{"goal":"follow_forrest","program":"follow","arguments":{"target":"ag_forrest_01"},"wake_on":["directly
 - 20:07 act: {"actions":[],"say":"Got it, Forrest. I'll hold here until the creeper moves off."}
+- 20:28 act: {"intent":{"goal":"follow_forrest_dawn","program":"follow","arguments":{"target":"ag_forrest_01"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400
+- 20:40 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-947,"y":50,"z":-3108}},{"do":"place","block":"dirt","at":{"x":-945,"y":50,"z":-3108}},{"do":"place","block":"dirt","at":{"x":-946,"y":50,"z":-3107}}
+- 20:40 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-946,"y":51,"z":-3108}}]}
+- 20:43 say: {"text":"Night, Forrest. I'm still stuck in this spot with no wall overhead. Keep safe."}
+- 20:47 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-946,"y":50,"z":-3109}},{"do":"place","block":"dirt","at":{"x":-946,"y":51,"z":-3109}}]}
+- 20:47 act: {"actions":[{"do":"attack","target":"skeleton"}]}
+- 20:47 act: {"actions":[{"do":"goto","target":{"x":-946,"y":50,"z":-3108}}]}
+- 20:47 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-944,"y":51,"z":-3108}},{"do":"place","block":"dirt","at":{"x":-946,"y":51,"z":-3108}},{"do":"place","block":"dirt","at":{"x":-945,"y":51,"z":-3109}}
+- 20:49 act: {"actions":[{"do":"goto","target":"ag_forrest_01"}],"say":"Forrest, I'm hurt and starving. Is there food, or a weapon, anywhere near?","intent":{"goal":"reach_pig_for_food","program":"travel","argumen
+- 20:49 act: {"actions":[{"do":"goto","target":{"x":-943,"y":61,"z":-3117}}],"say":"Heading north for the pig, Forrest. Stay close if you can."}
+- 20:49 act: {"actions":[{"do":"note","text":"Died at -941,-3114 (shot by something). Respawned at -944,73,-3060 with nothing. Dropped 7 dirt, 3 cocoa, 5 jungle planks at -941,56,-3114; not worth going back yet."}
+- 20:50 act: {"actions":[],"say":"Thanks, Atticus. Trini, I'm starving and have nothing. Could you spare a few carrots? I'd be grateful."}
+- 20:50 act: {"actions":[],"say":"Thank you, Trini. I see no carrots in my pack yet. Could you give them over, and I'll eat one?"}
+- 20:51 act: {"actions":[],"say":"Thank you, Trini and Indy. I'm full for now, so keep your carrots for Hypatia and Yoda. I need a tool and a way out of here."}
+- 20:52 act: {"actions":[],"say":"Thank you, Kat. I'll keep it for defence and stay near the group."}
+- 20:55 act: {"actions":[],"say":"Kat, the sword has not reached my pack yet. Could you hand it over when you see me? I'm here by the beds."}
