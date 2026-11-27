@@ -15,3 +15,25 @@
 - 21:30 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3048}},{"do":"note","text":"Dusk 1175. Fogg gave his last carrot to Trini and never sent me the sword. Going to bed at the bed row for the night
 - 21:30 act: {"actions":[{"do":"note","text":"Dusk 1175 at the bed row. Fogg is in my reach now; I asked him for the wooden sword. Going to sleep."}],"say":"Fogg, Marty here. Could you give me the wooden sword now
 - 21:32 act: {"actions":[{"do":"note","text":"Fogg says he is giving me the wooden sword now. It is not in my pack yet. Night, in reach of the group at the bed row."}],"say":"Thank you, Fogg. I will take the sword
+- 21:34 act: {"actions":[{"do":"note","text":"Day 1175 morning at bed row. Hunger 20, health 20, holding 1 carrot. Fogg is adjacent. Asking about the wooden sword; Trini needs food more than I do."}],"say":"Fogg, 
+- 21:35 act: {"actions":[{"do":"note","text":"Joining Indy's wood run north to Chewie's log, in sight. Fogg has not answered about the sword yet; I will ask again when back."}],"say":"Indy, I'm coming along for th
+- 21:35 act: {"intent":{"goal":"follow_indy_wood","program":"follow","arguments":{"target":"ag_indy_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,
+- 21:35 act: {"actions":[{"do":"note","text":"Follow of Indy failed (out of sight). Trini is now fed by others. Still waiting on Fogg for the sword; he is adjacent."}],"say":"Fogg, Marty here. Do you still have th
+- 21:35 act: {"actions":[{"do":"note","text":"Still at bed row, hunger 20, no sword yet. Fogg has not answered twice. Waiting for him or for the wood run to pass by."}]}
+- 21:35 act: {"actions":[{"do":"note","text":"Fogg says he gave me the wooden sword, but my pack still shows only the carrot. Checking pack once; asking Fogg once more if still missing."}],"say":"Thanks Fogg. The 
+- 21:39 act: {"actions":[{"do":"goto","target":"ag_uhura_01"},{"do":"give","to":"ag_uhura_01","item":"carrot","count":1}],"say":"Uhura, Marty here with my carrot. Coming to you now, hunger 20 so it goes to you."}
+- 21:39 act: {"actions":[{"do":"give","to":"ag_uhura_01","item":"carrot","count":1}],"say":"Uhura, here is my carrot. Hunger 20 here, so it is yours."}
+- 21:41 act: {"actions":[{"do":"give","to":"ag_uhura_01","item":"carrot","count":1}],"say":"Uhura, carrot coming to you now. Eat it."}
+- 21:41 act: {"actions":[{"do":"give","to":"ag_uhura_01","item":"carrot","count":1}],"say":"Uhura, here is the carrot."}
+- 21:42 act: {"actions":[],"say":"Marty, pack empty, hunger 20, no food to spare. Han, Zheng He: when the wood run leaves, I'll walk with you. Tell me where."}
+- 21:47 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3049}}],"say":"Marty, night 1176, hunger 20, no food, pack empty. Going to a bed at the row in the group's sight."}
+- 21:47 act: {"actions":[],"say":"Marty, morning 1176, hunger 20, pack empty. Zheng He, Han: I'll join whoever goes for the wood run or the cows. Name the way and I'll walk in your sight."}
+- 21:50 act: {"actions":[{"do":"goto","target":{"x":-943,"y":73,"z":-3068}}],"say":"Marty joining the dark oak wood run in Mulan's sight. No axe, I'll carry logs and watch for cows.","intent":{"goal":"join_wood_ru
+- 21:51 act: {"actions":[{"do":"break","at":{"x":-941,"y":77,"z":-3072}}],"say":"Marty at the dark oak grove, in Mulan's sight, no axe. I'll break any log within reach by hand and carry it to Mulan's table."}
+- 21:51 act: {"actions":[{"do":"break","at":{"x":-941,"y":77,"z":-3071}}]}
+- 21:51 act: {"actions":[{"do":"goto","target":{"x":-939,"y":72,"z":-3067}}],"say":"Marty: my breaks dropped no logs into my pack, so I'm coming down to the table to stay in the group's sight. Hunger 20, no food t
+- 21:55 act: {"actions":[],"say":"Marty: no food here, hunger 20. I'm going to look for cows to the west of the grove and will call out what I see.","intent":{"goal":"search_cows_west","program":"explore","argumen
+- 21:56 act: {"actions":[{"do":"goto","target":{"x":-942,"y":61,"z":-3117}},{"do":"attack","target":"pig"}],"say":"Marty: there is a pig to the north-west, I'm going for it. A skeleton is north, so I'll be quick."
+- 21:56 act: {"actions":[{"do":"goto","target":{"x":-939,"y":70,"z":-3067}}],"say":"Marty: skeletons and a zombie are north of me, unarmed, so I'm falling back to the grove."}
+- 21:56 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-939,"y":70,"z":-3067}}]}
+- 21:56 act: {"actions":[{"do":"goto","target":{"x":-939,"y":70,"z":-3067}}],"say":"I have no weapon. I am getting away from these skeletons and the zombie, back toward the table.","intent":{"goal":"escape_to_tabl
