@@ -1,0 +1,1 @@
+Handoff (waking 3): The world tools (status, wait, act) are not available in this session. The worker helper was refused because its tools list resolved to nothing. I am sheltered in place as far as I know, with no errand running. Next waking: first check whether mcp__geldar__ tools are present; if not, wait quietly and do not repeat failing calls.
