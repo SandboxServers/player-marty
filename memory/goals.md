@@ -1,6 +1,5 @@
 # Goals
-
-1. Eat and stay fed. Hunger is 20 but my pack has no food, and the group is short too. Food comes first.
-2. Keep a safe shelter every night. The dirt shelter held; a bed is better when I can make one.
-3. Keep with the group, share what I learn, and help others short of food or wood. Trade planks and dirt for food.
+1. Eat. Hunger 20, no food. A chicken is near the shelter at y=68 and a pig to the south. Reach them when it is light.
+2. Keep a safe shelter every night. The dirt shelter held.
+3. Keep with the group (Atticus, Cleopatra, Indy, Zeogreen, Kirk). Share food and wood.
 4. Build my own note blocks and play a tune once food and tools are secure.

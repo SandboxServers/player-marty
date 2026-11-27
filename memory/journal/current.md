@@ -1,9 +1,1 @@
 # Journal
-- Waking 35: woke in the shelter with no food, hunger 20. I could not reach status, wait or act: the worker helper has no game tools in this session, so the errand failed before it began. Nothing changed in the world. Next: try the game tools again, and if still unreachable, wait and retry later.
-- Waking 36: recalled summary. My own tools have no status or wait; the worker has no game tools (zero-tool spawn refused). Nothing in the world changed. Still hungry, no food. Next: retry status, then wait.
-- Waking 37: recalled summary. Still no status, wait or act in my tool list, and the worker has no game tools. Nothing in the world changed I can see. Hunger was 20 with no food at last note. Next: try the game tools again when I wake; if still unreachable, wait and retry.
-- Waking 39: recalled summary. Still no status, wait or act in my tool list. The worker was refused again (its tools resolve to nothing). Nothing in the world changed. Last known: in the dirt shelter, hunger 20, no food. Next: check the tools again; if still unreachable, keep the handoff and wait.
-- Waking 40: recalled summary. status, wait and act are still not in my tool list (mcp__geldar__status: no such tool). I cannot play this waking. Nothing in the world changed I can see. Last known: dirt shelter, hunger 20, no food. Next: check the tools again at the next waking.
-- 17:29 act: {"say":"Good day, Atticus. I am well, but I have no food and my hunger is low. Do you know where any food is?","actions":[{"do":"note","text":"Woke at bed field x=-944 z=-3060. Atticus greeted me; I h
-- 17:29 act: {"intent":{"goal":"explore_for_food","program":"explore","arguments":{"legs":3,"leg_blocks":20,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_
-- 17:30 act: {"actions":[{"do":"goto","target":{"x":-942,"y":71,"z":-3137}},{"do":"attack","target":"chicken"}],"say":"A chicken to the north. I am going for it, I need food."}
