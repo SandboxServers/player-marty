@@ -42,3 +42,5 @@
 - 11:27 act: {"actions":[{"do":"sleep"}]}
 - 11:39 act: {"actions":[{"do":"sleep"}]}
 - 11:39 act: {"actions":[{"do":"sleep"}]}
+- 11:44 act: {"actions":[{"do":"wait","seconds":5}],"say":"Marty, morning, at the bed row in sight of Indy and Curie. Hunger full. I will not go far alone; if anyone is walking to my dropped things at -995,28,-322
+- 11:46 act: {"actions":[{"do":"wait","seconds":5}],"say":"Curie, I have not seen Troi, MacGyver, Reynolds or Lovelace, sorry. Indy, morning. I am at the row with you both, holding 1 chicken; say if you want it an
