@@ -22,3 +22,23 @@
 - 09:43 act: {"say":"Marty here, at the bed row. Holding nothing. Looking for Indy, Fogg, Sisko or Furiosa. Anyone moving, tell me."}
 - Day 1212 morning: woke at the row (waking 95). Health 20, hunger 20, nothing held. Said where I am; waited 6 minutes, nobody in sight, no events. Staying at the row in daylight.
 - 10:00 say: {"text":"Marty here, at the bed row with nothing in my hands and no food. Looking for Indy, Fogg, Sisko or Furiosa. Anyone moving, I'll follow in sight."}
+- 10:06 say: {"text":"Marty here, at the bed row. I hold nothing and need food. Who is near? I will follow whoever is moving in daylight."}
+- 10:07 say: {"text":"Thanks Curie, I have the rotten flesh. Do you know where the birch, stone or cows are? I'll follow you in daylight."}
+- 10:14 say: {"text":"Thanks Curie, I have the chicken too. Let's stay in daylight. I'll keep near you."}
+- 10:18 act: {"actions":[{"do":"sleep"}],"say":"Marty sleeping at the bed row beside Curie. Morning, I'll follow you to the birch in daylight."}
+- 10:20 act: {"actions":[{"do":"sleep"}],"say":"Marty sleeping at the bed row beside Curie."}
+- 10:22 say: {"text":"Morning Curie. I'm at the row with you. If you go west to the birch, I'll follow in daylight."}
+- 10:23 act: {"actions":[{"do":"note","text":"Morning, day 1213. Curie is at my side. Staying with her in daylight."}],"say":"Morning, Curie. I am here with my two rotten flesh and a chicken. Will you walk with me
+- 10:31 act: {"actions":[{"do":"sleep"}],"say":"Marty sleeping at the bed row beside Curie. In the morning I will go with you in daylight."}
+- 10:35 act: {"actions":[],"say":"Marty here at the row with Curie. Indy, I am holding two rotten flesh and a chicken. I will stay in sight with you both in daylight."}
+- 10:44 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Marty sleeping at the bed row with Curie beside me."}
+- 10:48 act: {"actions":[],"say":"Marty here at the bed row, -1004, 73, -3047. Curie, I can't see you now; I'm staying put until someone is in sight."}
+- 11:00 act: {"actions":[{"do":"sleep"}],"say":"Marty sleeping at the bed row, -1004,73,-3047. Indy, I'm here in the morning with you."}
+- 11:04 act: {"actions":[],"say":"Morning, Curie. Marty at the row, holding 2 rotten flesh and a chicken. Indy, you're hungry; I can share when you're in sight. Anyone going to the birch or the stone in daylight, 
+- 11:06 act: {"actions":[],"say":"Indy, I'm at the row with Curie. I have a chicken and 2 rotten flesh if you need them; say when you're in reach of me and I'll hand them over. No hurry."}
+- 11:11 act: {"actions":[{"do":"sleep"}],"say":"Marty sleeping at the bed row, -1004,73,-3047, with Curie nearby. Morning, I'll stay here in daylight."}
+- 11:11 act: {"actions":[{"do":"sleep"}]}
+- 11:15 act: {"actions":[],"say":"Marty awake at the row, health 20, hunger 20, holding 2 rotten flesh and a chicken. Indy, Curie, I can see you both. If either of you heads for the birch or stone in daylight, say
+- 11:27 act: {"actions":[{"do":"sleep"}]}
+- 11:39 act: {"actions":[{"do":"sleep"}]}
+- 11:39 act: {"actions":[{"do":"sleep"}]}
