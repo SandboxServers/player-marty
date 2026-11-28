@@ -115,3 +115,8 @@
 - 23:47 act: {"actions":[{"do":"goto","target":"ag_ripley_01"}],"say":"Ripley, I'm coming to you in the group's sight. Please give the 2 oak planks, and I'll craft the sword at the table."}
 - 23:47 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3050}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Thank you, Ripley. Going to the table to make the sword now, in sight of the group
 - 23:51 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Armed with my sword, staying at the row in sight. Indy, eat your apple. I will join the stone search when it goes out."}
+- 23:58 act: {"say":"Marty here, morning 1182, health and hunger full, armed with a wooden sword. I'll join the stone search with Indy, staying in sight. Calling out if I see birch or cows."}
+- 23:58 act: {"say":"Marty here, morning 1183, health and hunger full, sword in hand. Kat, I'm with the stone search. I'll stay in your sight and call out anything grey. Indy, say when you move."}
+- 00:01 act: {"say":"Marty, morning 1183, health and hunger 20, sword in hand, ready for the stone search. Indy, say when you move and I'll follow in sight."}
+- 00:07 act: {"say":"Marty, dusk 1183, health and hunger 20. The stone search has not formed, so I'm staying at the bed row in sight and will sleep in a bed here tonight."}
+- 00:07 act: {"actions":[{"do":"use","at":{"x":-951,"y":73,"z":-3047}}]}
