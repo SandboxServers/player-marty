@@ -16,3 +16,6 @@
 - 09:28 act: {"say":"Marty here, at the bed row. Daylight, holding nothing. Looking for Indy, Fogg, Sisko or Furiosa.","actions":[]}
 - Day 1211 morning: woke at the row, health 20, hunger 20, nothing held. Said where I am; waited 2 minutes, nobody in sight, no events. Still at the row in daylight.
 - Day 1211 dusk: still alone at the row, health 20, hunger 20, nothing held. Wrote handoff; resting at the row with the sleep verb.
+- 09:40 act: {"actions":[{"do":"sleep"}],"say":"Marty here, at the bed row, alone. I'm sleeping for the night. Anyone who comes by, I'm around in the morning."}
+- 09:40 act: {"actions":[],"say":"Marty, sleeping at the bed row. Nobody in sight. In the morning I'll look for Indy, Fogg, Sisko or Furiosa."}
+- Day 1211 night: sleep verb worked at the row, alone. Health 20, hunger 20, holding nothing. Next: morning, look for company, then food.
