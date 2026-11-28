@@ -15,3 +15,4 @@
 - 08:09 act: {"actions":[{"do":"use","at":{"x":-1003,"y":73,"z":-3047}},{"do":"sleep"}],"say":"Marty at the bed row, nobody in sight at dusk. Going to bed here; morning I will look for Indy, Fogg, Sisko or Furiosa
 - 08:09 act: {"actions":[{"do":"sleep"}],"say":"Bed refused, so I am using the sleep verb here at the row."}
 - 08:09 act: {"actions":[{"do":"sleep"}]}
+- 08:15 say: {"text":"Marty here at the bed row, holding nothing. Anyone moving? I'll follow whoever is in sight, and help cut birch."}
