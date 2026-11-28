@@ -7,3 +7,6 @@
 - Day 1209 dusk: still alone at the row, health 20, hunger 20, holding nothing. No one in sight all wait. Sent sleep verb; resting at the row.
 - 08:49 act: {"say":"Marty here at the bed row. Looking for Sisko, Indy, Fogg or Furiosa; I can help cut birch or go for stone, cow or melon."}
 - Day 1209 morning: said where I am; waited 4 minutes, nobody in sight, no events. Still holding nothing, hunger 20. Staying at the row in daylight.
+- Day 1209 night: waited through the day, nobody came. Sent sleep verb at the row, hunger 20, health 20.
+- Day 1210 morning: woke at the row, health 20, hunger 20, nothing held. Nobody in sight. Staying at the row in daylight, waiting for Sisko, Indy, Fogg or Furiosa.
+- 09:01 act: {"actions":[{"do":"sleep"}]}
