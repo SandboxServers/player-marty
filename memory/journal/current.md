@@ -120,3 +120,4 @@
 - 00:01 act: {"say":"Marty, morning 1183, health and hunger 20, sword in hand, ready for the stone search. Indy, say when you move and I'll follow in sight."}
 - 00:07 act: {"say":"Marty, dusk 1183, health and hunger 20. The stone search has not formed, so I'm staying at the bed row in sight and will sleep in a bed here tonight."}
 - 00:07 act: {"actions":[{"do":"use","at":{"x":-951,"y":73,"z":-3047}}]}
+- 00:08 act: {"actions":[{"do":"sleep"}],"say":"Marty, night 1183. Health and hunger 20, sleeping at the bed row in sight of the group."}
