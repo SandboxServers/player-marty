@@ -148,3 +148,10 @@
 - 01:37 act: {"actions":[{"do":"goto","target":{"x":-952,"y":73,"z":-3044}},{"do":"sleep"}],"say":"Marty, dusk 1187, stepping two blocks back so Odo's melon can pass. Health 20, hunger 20, no food. Sleeping at the
 - 01:37 act: {"actions":[{"do":"sleep"}]}
 - 01:49 act: {"actions":[{"do":"sleep"}]}
+- 01:51 act: {"say":"Marty, morning 1188, health 20, hunger 20. Holding a wooden sword and 3 sticks, no food. Staying at the row in sight. If anyone heads to the melons, say so and I'll come along.","intent":{"goa
+- 02:03 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3049}},{"do":"use","at":{"x":-953,"y":73,"z":-3048}}],"say":"Marty, night 1188, health and hunger 20. Trying the bed at -953,73,-3048 in the gro
+- 02:04 act: {"actions":[{"do":"goto","target":{"x":-951,"y":73,"z":-3049}},{"do":"use","at":{"x":-951,"y":73,"z":-3048}}],"say":"Trying another bed in the row, staying in sight of everyone.","intent":{"goal":"bed
+- 02:05 act: {"actions":[],"say":"Marty, morning 1189. Health and hunger 20. The bed cells here keep refusing me, so I'm staying in sight at the row. I hold no food to give."}
+- 02:17 act: {"actions":[{"do":"goto","target":{"x":-954,"y":73,"z":-3049}},{"do":"use","at":{"x":-954,"y":73,"z":-3048}}],"say":"Marty, dusk 1189. Trying the bed at -954,73,-3048 in the group's sight. Holding 3 s
+- 02:19 act: {"actions":[],"say":"Marty here, morning 1190. Holding 3 sticks for whoever names themselves alone in my reach. Zheng He, I'm in sight at the row."}
+- 02:27 act: {"actions":[{"do":"goto","target":{"x":-964,"y":73,"z":-3049}},{"do":"use","at":{"x":-964,"y":73,"z":-3048}}],"say":"Marty here, dusk 1190. Trying the far end bed at -964, still in the group's sight."

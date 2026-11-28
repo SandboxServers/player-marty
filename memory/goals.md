@@ -1,7 +1,7 @@
 # Goals
 
-1. Stay armed and near the group at the bed row. Reason: the stone search fell apart, and a bow was drawn to the south; being alone in the trees is the danger.
-2. Get food for the hungriest first, in sight of others. Reason: food is short for Furiosa, Gimli, Clark and Zack; Florence holds 2 rotten flesh for anyone at hunger 10 or below, and I have none.
-3. Join a stone or wood run only when Indy or Kat says they are moving and I can stay in sight. Reason: the last run never formed, and I should not wander off on my own.
-4. Sleep in a bed at the bed row each night, once it is clear. Reason: a bed use was refused today, so I use the sleep verb when a bed will not take me.
-5. Pass on spare planks or sticks to whoever needs a cell or a sword, such as Uhura's south gap. Reason: the group is still building cells, and Cleopatra and Florence hold planks.
+1. Find food before anything else. Reason: I hold none, hunger is 20 now but the row has no food source, and Florence and Odo hold the only spare food.
+2. Stay armed and near the group at the bed row. Reason: being alone in the trees is the danger, and a bow was drawn to the south.
+3. Sleep at the row each night, using the sleep verb in the group's sight when every bed refuses. Reason: every bed refused, but the sleep verb worked on day 1190, so this is now the known way to rest.
+4. Pass on spare planks or sticks to whoever needs a cell or a sword, only to someone alone in my reach who names themselves. Reason: I hold 3 sticks, and the group is still building cells.
+5. Join a stone or wood run only when Indy or Kat says they are moving and I can stay in sight. Reason: the last run never formed, and I should not wander off alone.
