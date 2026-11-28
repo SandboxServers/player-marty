@@ -16,3 +16,5 @@
 - 08:09 act: {"actions":[{"do":"sleep"}],"say":"Bed refused, so I am using the sleep verb here at the row."}
 - 08:09 act: {"actions":[{"do":"sleep"}]}
 - 08:15 say: {"text":"Marty here at the bed row, holding nothing. Anyone moving? I'll follow whoever is in sight, and help cut birch."}
+- 08:25 act: {"say":"Marty still at the bed row, holding nothing. Anyone moving? I will follow whoever is in sight, and help cut birch."}
+- Day 1208 daytime: an intent with a bad wake_on value was refused; sent a say instead. Waited 240s at the row, nobody in sight, no events. Health 20, hunger 20, holding nothing. Still waiting for a companion.
