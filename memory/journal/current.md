@@ -10,3 +10,4 @@
 - Day 1209 night: waited through the day, nobody came. Sent sleep verb at the row, hunger 20, health 20.
 - Day 1210 morning: woke at the row, health 20, hunger 20, nothing held. Nobody in sight. Staying at the row in daylight, waiting for Sisko, Indy, Fogg or Furiosa.
 - 09:01 act: {"actions":[{"do":"sleep"}]}
+- 09:12 act: {"say":"Marty here at the bed row, -1004,73,-3047. Health and hunger full. Looking for Indy, Fogg, Sisko or Furiosa; I'll follow whoever is moving.","intent":{"goal":"hold_at_row_for_company","program
