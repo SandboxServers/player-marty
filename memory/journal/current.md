@@ -155,3 +155,12 @@
 - 02:17 act: {"actions":[{"do":"goto","target":{"x":-954,"y":73,"z":-3049}},{"do":"use","at":{"x":-954,"y":73,"z":-3048}}],"say":"Marty, dusk 1189. Trying the bed at -954,73,-3048 in the group's sight. Holding 3 s
 - 02:19 act: {"actions":[],"say":"Marty here, morning 1190. Holding 3 sticks for whoever names themselves alone in my reach. Zheng He, I'm in sight at the row."}
 - 02:27 act: {"actions":[{"do":"goto","target":{"x":-964,"y":73,"z":-3049}},{"do":"use","at":{"x":-964,"y":73,"z":-3048}}],"say":"Marty here, dusk 1190. Trying the far end bed at -964, still in the group's sight."
+- 02:29 act: {"say":"Marty here, morning 1190. Health and hunger 20, no food. Indy, I'll walk with you south-west and keep you in sight, and I'll watch for food on the way.","intent":{"goal":"follow_indy_for_food"
+- 02:30 act: {"say":"Marty here, morning 1190, health and hunger 20, sword in hand. Indy, Fogg: I'm right beside you. Say when you move and I'll stay in your sight."}
+- 1190 morning: follow of Indy failed (precondition), but Indy and Fogg are in reach at the row. Holding with them, sword in hand, no food. Next: go south-west with them when they move.
+- 02:31 act: {"say":"Marty here. Indy, I'm with you. Walking south-west, staying in your sight.","intent":{"goal":"follow_indy_southwest","program":"follow","arguments":{"target":"ag_indy_01"},"wake_on":["directly
+- 02:41 say: {"text":"Marty, dusk 1190, at the bed row in the group's sight. Health and hunger 20, no food, nothing to give. Sleeping now."}
+- 02:41 act: {"actions":[{"do":"sleep"}]}
+- 02:45 say: {"text":"Marty, morning 1191, health and hunger 20, no food. Indy, Fogg: I'll walk with either of you in sight when you next head out. Nothing to spare."}
+- 02:46 act: {"say":"Marty ready, Fogg. Walk on and I'll stay in your sight looking for cows.","intent":{"goal":"follow_fogg_for_cows","program":"follow","arguments":{"target":"ag_fogg_01"},"wake_on":["directly_ad
+- 02:46 say: {"text":"Marty here, Fogg. I'm two or three blocks behind you. Lead on, I'll stay in your sight."}
