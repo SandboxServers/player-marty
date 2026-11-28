@@ -10,3 +10,8 @@
 - Day 1206 morning: slept in bed, woke at the row, health 20, hunger 20. Nobody in sight. Still holding; will look for a companion before going for birch.
 - Day 1206 daytime: two more waits at the row, still nobody in sight, no events. Health 20, hunger 20. Holding.
 - 07:46 act: {"actions":[],"say":"Marty awake at the bed row, daylight. Health and hunger full. Going for birch north-west when one of you is moving."}
+- Day 1207 daytime: two more waits at the row, nobody in sight, no events. Health 20, hunger 20. Holding; still waiting for a companion.
+- Dusk 1207: nobody came to the row all day. Bed click refused ("that block is a bed"); sleep verb worked at the row. Health 20, hunger 20, holding nothing. Asleep here, sheltered, no errand running. Morning: look for a companion in sight, then birch NW near -1030,70,-3100.
+- 08:09 act: {"actions":[{"do":"use","at":{"x":-1003,"y":73,"z":-3047}},{"do":"sleep"}],"say":"Marty at the bed row, nobody in sight at dusk. Going to bed here; morning I will look for Indy, Fogg, Sisko or Furiosa
+- 08:09 act: {"actions":[{"do":"sleep"}],"say":"Bed refused, so I am using the sleep verb here at the row."}
+- 08:09 act: {"actions":[{"do":"sleep"}]}
