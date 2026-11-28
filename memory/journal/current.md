@@ -5,3 +5,8 @@
 - 07:23 act: {"say":"Marty here at the bed row, daylight, health 20. Looking for Sisko, Indy, Fogg or Furiosa. Going for birch north-west when someone is ready.","actions":[]}
 - Day 1205 morning: still alone at the row, nobody in sight after two waits. Said where I am. Holding; no food yet.
 - Day 1205, thunder: three more waits, still nobody in sight, no events. Health 20, hunger 20. Staying at the row; will go for birch only with someone.
+- 07:44 act: {"actions":[{"do":"sleep"}],"say":"Nobody in sight, so I am going to bed at the row. Morning, I'll look for Indy, Fogg, Sisko or Furiosa."}
+- Day 1206 dusk: alone at the bed row (-1003,73,-3047), health 20, hunger 20, holding nothing. Queued sleep in bed; no one in sight. Plan at waking: look for Indy, Fogg, Sisko or Furiosa; birch NW near -1030,70,-3100.
+- Day 1206 morning: slept in bed, woke at the row, health 20, hunger 20. Nobody in sight. Still holding; will look for a companion before going for birch.
+- Day 1206 daytime: two more waits at the row, still nobody in sight, no events. Health 20, hunger 20. Holding.
+- 07:46 act: {"actions":[],"say":"Marty awake at the bed row, daylight. Health and hunger full. Going for birch north-west when one of you is moving."}
