@@ -5,3 +5,5 @@
 - 08:43 act: {"say":"Marty here at the bed row, hungry and holding nothing. Anyone moving to the birch or the stone, I'll follow in sight."}
 - 08:47 act: {"actions":[{"do":"sleep"}]}
 - Day 1209 dusk: still alone at the row, health 20, hunger 20, holding nothing. No one in sight all wait. Sent sleep verb; resting at the row.
+- 08:49 act: {"say":"Marty here at the bed row. Looking for Sisko, Indy, Fogg or Furiosa; I can help cut birch or go for stone, cow or melon."}
+- Day 1209 morning: said where I am; waited 4 minutes, nobody in sight, no events. Still holding nothing, hunger 20. Staying at the row in daylight.
