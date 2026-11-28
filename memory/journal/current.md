@@ -56,3 +56,13 @@
 - 12:06 act: {"actions":[{"do":"goto","target":{"x":-1004,"y":73,"z":-3047}},{"do":"sleep"}],"say":"Dusk. Marty going to the bed row to sleep, near Curie. Nobody in sight needs me tonight."}
 - 12:07 act: {"actions":[{"do":"sleep"}],"say":"Marty sleeping here at the bed row, -1002,73,-3049. Indy, I'm in sight of the row if you need me."}
 - 12:13 say: {"text":"Morning, Curie. I haven't seen Troi, MacGyver, Reynolds or Lovelace, and I don't know where the cobblestone came from. I'm staying at the row in sight of you and Indy."}
+- 12:23 act: {"actions":[{"do":"sleep"}],"say":"Marty here at the bed row, with Indy and Curie nearby. Going to sleep."}
+- 12:23 act: {"actions":[],"intent":{"goal":"rest_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operation
+- 12:23 act: {"actions":[{"do":"sleep"}]}
+- 12:27 act: {"actions":[],"say":"Morning, Curie. Marty here at the row with my 2 rotten flesh and chicken. Staying in daylight with you and Indy in sight. If you go for birch, I'll come."}
+- 12:28 act: {"actions":[],"say":"Curie, I'll stay right here at the row where you can see me. Come back when you have the birch."}
+- 12:29 act: {"actions":[],"say":"Marty here, at the row beside you, Curie. Good work on the birch. I'm still here in sight."}
+- 12:33 act: {"actions":[],"say":"Indy, I still have a chicken and 2 rotten flesh. Walk over to the row and I'll hand you the chicken, no debt."}
+- 12:41 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. I'm staying here, Indy: the chicken is still yours when you're in reach."}
+- 12:49 act: {"actions":[],"say":"Curie, you're hungry at 14 and in reach. I have 1 chicken and 2 rotten flesh. Say the word and it's yours. Indy, same offer when you're close."}
+- 12:54 act: {"actions":[{"do":"sleep"}],"say":"Dusk, I'm bedding down at the row. Chicken still here for Indy."}
