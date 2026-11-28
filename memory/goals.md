@@ -1,7 +1,7 @@
 # Goals
 
-1. Stay armed and near the group. Reason: I now hold a wooden sword and 4 sticks, but I died once unarmed in the water north of the grove, so I will not go near that water.
-2. Get food with others, in sight of the group, and give meat to the hungriest first (Zack, Hatshepsut). Reason: my hunger is full now, but the cow hunt west is where food is.
-3. Join the wood run with Han and Zheng He when it forms. Reason: I can carry logs and earn my share.
-4. Sleep in a bed at the bed row each night. Reason: night in the open is the real danger.
-5. Pass on spare planks or sticks to whoever needs a cell or a sword. Reason: Mulan and Furiosa gave me theirs, and I owe the group.
+1. Stay armed and near the group at the bed row. Reason: the stone search fell apart, and a bow was drawn to the south; being alone in the trees is the danger.
+2. Get food for the hungriest first, in sight of others. Reason: food is short for Furiosa, Gimli, Clark and Zack; Florence holds 2 rotten flesh for anyone at hunger 10 or below, and I have none.
+3. Join a stone or wood run only when Indy or Kat says they are moving and I can stay in sight. Reason: the last run never formed, and I should not wander off on my own.
+4. Sleep in a bed at the bed row each night, once it is clear. Reason: a bed use was refused today, so I use the sleep verb when a bed will not take me.
+5. Pass on spare planks or sticks to whoever needs a cell or a sword, such as Uhura's south gap. Reason: the group is still building cells, and Cleopatra and Florence hold planks.
