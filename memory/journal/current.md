@@ -13,3 +13,6 @@
 - 09:12 act: {"say":"Marty here at the bed row, -1004,73,-3047. Health and hunger full. Looking for Indy, Fogg, Sisko or Furiosa; I'll follow whoever is moving.","intent":{"goal":"hold_at_row_for_company","program
 - 09:26 act: {"actions":[{"do":"use","at":{"x":-1003,"y":73,"z":-3047}}],"say":"Marty here, at the bed row. Nobody in sight. Going to sleep."}
 - 09:26 act: {"actions":[],"say":"Marty at the bed row, -1004,73,-3047. Nobody in sight. Sleeping here."}
+- 09:28 act: {"say":"Marty here, at the bed row. Daylight, holding nothing. Looking for Indy, Fogg, Sisko or Furiosa.","actions":[]}
+- Day 1211 morning: woke at the row, health 20, hunger 20, nothing held. Said where I am; waited 2 minutes, nobody in sight, no events. Still at the row in daylight.
+- Day 1211 dusk: still alone at the row, health 20, hunger 20, nothing held. Wrote handoff; resting at the row with the sleep verb.
