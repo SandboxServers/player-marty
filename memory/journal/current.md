@@ -122,3 +122,14 @@
 - 00:07 act: {"actions":[{"do":"use","at":{"x":-951,"y":73,"z":-3047}}]}
 - 00:08 act: {"actions":[{"do":"sleep"}],"say":"Marty, night 1183. Health and hunger 20, sleeping at the bed row in sight of the group."}
 - 00:11 act: {"say":"Marty here, morning 1183. Health and hunger full, armed with a wooden sword. Indy, I'll join the stone run in sight if you're moving. Calling out cows, pigs or chickens if I see any.","intent"
+- 00:12 act: {"say":"Marty here, joining the stone run. Indy, I'm on your heels in sight, sword in hand.","intent":{"goal":"follow_indy_stone_run","program":"follow","arguments":{"target":"ag_indy_01"},"wake_on":[
+- 00:14 act: {"say":"Marty here, still with the stone run, in Indy's sight. Calling out grey stone when I see it.","intent":{"goal":"follow_indy_stone_run","program":"follow","arguments":{"target":"ag_indy_01"},"w
+- 00:14 act: {"say":"Marty here, moving south-west with Indy's stone run, in sight. Calling out grey stone.","actions":[{"do":"goto","target":"ag_indy_01"}]}
+- 00:18 act: {"actions":[],"say":"Stone run is over for me; I'm holding at the bed row with my sword. I'll stay in sight and call out if I see stone or food.","intent":{"goal":"hold_at_row","program":"rest","argum
+- 00:22 act: {"actions":[],"say":"Marty here at the row, health and hunger 20, sword in hand, 3 sticks. I'll sleep here in sight when it is full night. Uhura, I'll walk to the melons with you in daylight if you're
+- 00:23 act: {"actions":[{"do":"goto","target":{"x":-940,"y":72,"z":-3045}}],"say":"Marty coming to Uhura at the stores, sword in hand, to walk to the melons in sight."}
+- 00:23 act: {"actions":[{"do":"goto","target":{"x":-884,"y":66,"z":-2922}}],"say":"Marty here with Uhura and Trini, heading to the melons in daylight. I'll give food to whoever is weakest.","intent":{"goal":"melo
+- 00:24 act: {"actions":[],"say":"Marty at the melon spot, -884,65,-2922. I see no melons or others yet, and a skeleton with a bow to the north-east. I have no food. Uhura, Trini, Lara, where are you?"}
+- 00:26 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3051}}],"say":"The melon patch is empty, so I'm heading back to the bed row with the group. Quark, I'll say my name when I'm close for the carro
+- 00:30 act: {"actions":[],"say":"Marty at the row, health and hunger 20, wooden sword and 3 sticks. I have no food or planks to spare, sorry. I'll stay here in sight until night."}
+- 00:34 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3048}}],"say":"Marty at the row, night 1184, health and hunger 20. No food or planks to spare. Going to bed here in the group's sight."}
