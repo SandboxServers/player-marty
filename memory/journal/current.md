@@ -12,3 +12,4 @@
 - 04:23 act: {"actions":[{"do":"sleep"}],"say":"Dusk, no one in sight. Sleeping here at the bed row with my chicken and sword."}
 - 04:27 act: {"say":"Morning. Marty at the bed row, still alone. If Indy, Fogg or Sisko are moving, I'll follow in sight.","intent":{"goal":"wait_for_group","program":"rest","arguments":{},"wake_on":["directly_add
 - 04:35 act: {"actions":[{"do":"sleep"}],"say":"Night. Still no one in sight, so I'm sleeping here at the bed row."}
+- 04:42 act: {"say":"Marty at the bed row, still alone, holding a chicken and my sword. Waiting for Indy, Fogg or Sisko to move.","intent":{"goal":"wait_for_group","program":"rest","arguments":{},"wake_on":["direc
