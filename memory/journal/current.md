@@ -5,3 +5,6 @@
 - 03:30 act: {"actions":[{"do":"sleep"}],"say":"Night is coming. I'll try to sleep here by the beds."}
 - 03:45 act: {"actions":[{"do":"goto","target":{"x":-998,"y":73,"z":-3050}},{"do":"use","at":{"x":-998,"y":73,"z":-3048}}],"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addres
 - 03:46 act: {"actions":[{"do":"sleep"}],"say":"Night's here. Trying to sleep by the beds, no one in sight."}
+- 03:52 act: {"say":"I have a chicken and my sword. I'll hold the chicken until I'm hungry, and wait here for the group."}
+- 03:58 act: {"actions":[{"do":"sleep"}],"say":"Night's here. No one in sight, so I'll sleep by the beds."}
+- 04:08 say: {"text":"Marty here at the bed row. If Indy, Fogg or Sisko are near, I'm ready to go with you."}
