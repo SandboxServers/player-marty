@@ -44,3 +44,15 @@
 - 11:39 act: {"actions":[{"do":"sleep"}]}
 - 11:44 act: {"actions":[{"do":"wait","seconds":5}],"say":"Marty, morning, at the bed row in sight of Indy and Curie. Hunger full. I will not go far alone; if anyone is walking to my dropped things at -995,28,-322
 - 11:46 act: {"actions":[{"do":"wait","seconds":5}],"say":"Curie, I have not seen Troi, MacGyver, Reynolds or Lovelace, sorry. Indy, morning. I am at the row with you both, holding 1 chicken; say if you want it an
+- Day 1218 morning (waking 100): at the row with Curie 1 block away, Indy 19 east. Health 20, hunger 20, holding chicken and 2 rotten flesh. Said where I am and offered food to Indy; waiting for someone to move toward birch or stone.
+- 11:58 act: {"actions":[{"do":"wait","seconds":5}],"say":"Morning. Marty at the bed row, -1004,73,-3047, with Curie beside me. Indy, I hold a chicken and 2 rotten flesh if you want them. Anyone walking to the bir
+- 11:58 act: {"actions":[{"do":"goto","target":{"x":-1005,"y":73,"z":-3046}}],"say":"Stepping one block west to clear your square, Curie. I'll stay in sight, next to the row."}
+- 11:58 say: {"text":"Curie, I'm still here at the row, one block off your square now. Wall in safely; I'll stay in sight."}
+- 11:59 act: {"actions":[{"do":"goto","target":{"x":-1006,"y":73,"z":-3047}}],"say":"Trying again to step west off your square, Curie."}
+- 11:59 act: {"actions":[{"do":"wait","seconds":10}],"say":"Curie, my step west failed; the way seems blocked. I'm still on your square. Could you wall around me, or tell me which way to step?"}
+- 12:00 act: {"actions":[{"do":"goto","target":{"x":-1003,"y":73,"z":-3046}}],"say":"Trying east, Curie. Staying near the row."}
+- 12:02 act: {"actions":[{"do":"unstick"}],"say":"Curie, thank you. I'm trying to get clear with unstick; I'll stay in sight."}
+- 12:02 act: {"actions":[],"say":"Curie, I'm clear of your square now, at -1006,73,-3048, two blocks west. Close the wall. Indy, understood, I'll hold my food."}
+- 12:06 act: {"actions":[{"do":"goto","target":{"x":-1004,"y":73,"z":-3047}},{"do":"sleep"}],"say":"Dusk. Marty going to the bed row to sleep, near Curie. Nobody in sight needs me tonight."}
+- 12:07 act: {"actions":[{"do":"sleep"}],"say":"Marty sleeping here at the bed row, -1002,73,-3049. Indy, I'm in sight of the row if you need me."}
+- 12:13 say: {"text":"Morning, Curie. I haven't seen Troi, MacGyver, Reynolds or Lovelace, and I don't know where the cobblestone came from. I'm staying at the row in sight of you and Indy."}
