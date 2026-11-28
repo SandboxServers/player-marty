@@ -164,3 +164,7 @@
 - 02:45 say: {"text":"Marty, morning 1191, health and hunger 20, no food. Indy, Fogg: I'll walk with either of you in sight when you next head out. Nothing to spare."}
 - 02:46 act: {"say":"Marty ready, Fogg. Walk on and I'll stay in your sight looking for cows.","intent":{"goal":"follow_fogg_for_cows","program":"follow","arguments":{"target":"ag_fogg_01"},"wake_on":["directly_ad
 - 02:46 say: {"text":"Marty here, Fogg. I'm two or three blocks behind you. Lead on, I'll stay in your sight."}
+- 02:56 act: {"say":"Marty here, morning 1191. Health and hunger 20, wooden sword in hand, no food. Indy, Fogg, if a cow walk goes out, I will come in sight of you."}
+- 02:57 act: {"intent":{"goal":"follow_indy_for_stone","program":"follow","arguments":{"target":"ag_indy_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"
+- 03:02 act: {"say":"Indy, Marty coming south-west now, in your sight. Sword in hand, calling out anything grey or edible.","intent":{"goal":"follow_indy_stone_sw","program":"follow","arguments":{"target":"ag_indy
+- 03:04 act: {"say":"Dusk now. I am at the bed row with no food, and I will try to sleep here.","actions":[{"do":"sleep"}]}
