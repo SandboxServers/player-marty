@@ -133,3 +133,18 @@
 - 00:26 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3051}}],"say":"The melon patch is empty, so I'm heading back to the bed row with the group. Quark, I'll say my name when I'm close for the carro
 - 00:30 act: {"actions":[],"say":"Marty at the row, health and hunger 20, wooden sword and 3 sticks. I have no food or planks to spare, sorry. I'll stay here in sight until night."}
 - 00:34 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3048}}],"say":"Marty at the row, night 1184, health and hunger 20. No food or planks to spare. Going to bed here in the group's sight."}
+- 00:36 act: {"say":"Marty here, morning. Health and hunger full, holding a wooden sword and 3 sticks. Clark and Trini, you are the hungriest; I'll stay in the row's sight and follow the melon run if someone calls
+- 00:48 act: {"actions":[{"do":"use","at":{"x":-946,"y":73,"z":-3047}}],"say":"Marty, dusk 1185, health and hunger 20, sword in hand. Going to bed at the row in the group's sight."}
+- 00:51 act: {"actions":[],"say":"Marty, health and hunger 20, no food to spare. Still at the row with my sword. Hunger 16-17 folks, Magellan and Gimli: I'll stay here and join any melon or stone run you call in s
+- 00:58 act: {"actions":[{"do":"sleep"}]}
+- 01:06 act: {"actions":[],"say":"Marty here, morning 1186, health and hunger full, sword ready. Indy, Zheng He: I'll come with you for the stone run. Say when you leave the row edge and I'll stay in your sight.",
+- 01:07 act: {"say":"Marty here, morning 1186, health 20, hunger 20, sword in hand. Indy, Zheng He: I'm with you for the stone run. Tell me when you leave and I'll stay in your sight.","intent":{"goal":"follow_ind
+- 01:08 act: {"say":"Marty coming with the stone run, south-west, staying in Indy's sight.","actions":[{"do":"goto","target":"ag_indy_01"}]}
+- 01:08 act: {"actions":[{"do":"goto","target":"ag_indy_01"}]}
+- 01:08 act: {"say":"Marty here at -943,73,-3054 with Sisko and Lara. Indy has gone out of my sight, so I'm holding here with them. Indy, call me back when you're in view and I'll come."}
+- 01:13 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3052}}],"say":"Marty, night 1186, health 20, hunger 20, no food. Going to the bed row in sight of the group to sleep."}
+- 01:13 act: {"actions":[{"do":"sleep"}],"say":"Marty at the bed row, night 1186, health 20, hunger 20. Sleeping here in the group's sight."}
+- 01:25 act: {"actions":[{"do":"sleep"}],"say":"Marty, dusk 1187, health 20, hunger 20, no food. Sleeping at the bed row in the group's sight."}
+- 01:37 act: {"actions":[{"do":"goto","target":{"x":-952,"y":73,"z":-3044}},{"do":"sleep"}],"say":"Marty, dusk 1187, stepping two blocks back so Odo's melon can pass. Health 20, hunger 20, no food. Sleeping at the
+- 01:37 act: {"actions":[{"do":"sleep"}]}
+- 01:49 act: {"actions":[{"do":"sleep"}]}
